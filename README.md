@@ -1,5 +1,9 @@
 # Nanopore Read re-start and alignment
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11050973.svg)](https://doi.org/10.5281/zenodo.11050973)
+
+
 ## Author: Markus Nevil
 
 Raw Oxford Nanopore sequencing reads of plasmids have multiple start locations even though the original molecules were circular. This script "restarts" each read using BLAT to search for the user-definied origin of the vector. By aligning these restarted reads to a reference sequence, a consensus sequence can be generated and scanned for mutations. This is useful for vectors with multiple repeats of the same sequence, which normally obfuscates which repeat contains mutations.
