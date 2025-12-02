@@ -1,0 +1,40 @@
+
+MsaDNAMultipleAlignment with 36 rows and 70 columns
+     aln                                                   names
+ [1] GTTAATTAAATTA----CGCCC-GC...TGTTGTAATT--------------- seq_625
+ [2] GTTAATTAAATTA----CGCCC-GC...TGTTGTAATT--------------- seq_578
+ [3] GTTAATTAAATTA----CGCCC-GC...TGTATCATGG--------------- seq_867
+ [4] GTTAATTAAATTTGCCCCGCCCCGC...TGTTG-------------------- seq_608
+ [5] GTTAATTAAATTA----CGCCCCCC...TGTTGTAAT---------------- seq_501
+ [6] GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- seq_488
+ [7] GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- seq_483
+ [8] GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- seq_493
+ [9] GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- seq_497
+[10] GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- seq_50
+[11] GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- seq_563
+[12] GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- seq_570
+[13] GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- seq_574
+[14] GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- seq_580
+[15] GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- seq_584
+[16] GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- seq_587
+[17] GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- seq_592
+[18] GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- seq_595
+[19] GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- seq_597
+[20] GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- seq_615
+[21] GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- seq_66
+[22] GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- seq_69
+[23] GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- seq_709
+[24] GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- seq_713
+[25] GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- seq_717
+[26] GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- seq_718
+[27] GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- seq_722
+[28] GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- seq_78
+[29] GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- seq_851
+[30] GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- seq_853
+[31] GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- seq_871
+[32] GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- seq_872
+[33] GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- seq_878
+[34] GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- seq_880
+[35] GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- seq_884
+[36] --------------------ACCGC...TGTTGTAATTCATTAAGCATTCTGC seq_490
+ Con GTTAATTAAATTA----CGCCCCGC...TGTTGTAAT---------------- Consensus 

@@ -1,0 +1,9 @@
+.git
+.gitignore
+*.md
+images/
+*.zip
+results/
+*.out
+.DS_Store
+
