@@ -1,0 +1,31 @@
+# Data directory - contains input files
+data/
+
+# Results directory
+results/
+
+# Temporary files
+*.out
+*.fai
+*.mmi
+*.psl
+*.bed
+*.gtf
+*.bam
+*.bai
+*.fastq
+*.fasta
+!*.R
+!*.sh
+!*.md
+!Dockerfile
+
+# OS files
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Docker
+.dockerignore
+
